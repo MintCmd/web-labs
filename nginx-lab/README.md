@@ -2,6 +2,7 @@
 
 ## 👩‍💻 Автор
 ФИО: Козимиров Дмитрий Михайлович
+
 Группа: 2ПМ-ИП2
 
 ---
@@ -42,6 +43,29 @@ docker-compose up -d --build
 ---
 
 ## 📸 Скриншоты работы
+Docker установлен
+
+![.](https://github.com/MintCmd/web-labs/blob/main/nginx-lab/screenshots/docker-version.jpg)
+
+Первый запуск Nginx
+
+![.](https://github.com/MintCmd/web-labs/blob/main/nginx-lab/screenshots/nginx-default.jpg)
+
+Сервер отдаёт мою HTML-страничку
+
+![.](https://github.com/MintCmd/web-labs/blob/main/nginx-lab/screenshots/index-default.jpg)
+
+Изменение текста в index.html
+
+![.](https://github.com/MintCmd/web-labs/blob/main/nginx-lab/screenshots/changed-text.jpg)
+
+Добавление файла about.html
+
+![.](https://github.com/MintCmd/web-labs/blob/main/nginx-lab/screenshots/about-file-added.jpg)
+
+Добавление нового порта 3000
+
+![.](https://github.com/MintCmd/web-labs/blob/main/nginx-lab/screenshots/new-port-added.jpg)
 
 ---
 
